@@ -1,3 +1,3 @@
 # new-portfolio
 
-Hector Menia Porfolio - https://hector-mejia.herokuapp.com/
+Hector Mejia Porfolio - https://hector-mejia.herokuapp.com/
